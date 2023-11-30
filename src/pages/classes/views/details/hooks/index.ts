@@ -1,0 +1,1 @@
+export { useClassData } from "./useClassData";
